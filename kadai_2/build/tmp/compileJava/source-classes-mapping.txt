@@ -1,2 +1,0 @@
-test2/App.java
- test2.App
